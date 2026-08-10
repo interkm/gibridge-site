@@ -193,4 +193,63 @@
       status.className = "form-status ok";
     });
   }
+
+  /* ---------- 최신 공고 자동 렌더링 (announcements.json) ---------- */
+  var annList = document.getElementById("annList");
+  if (annList) {
+    var fallbackItems = [
+      { title: "[기업마당] 2026년 강한 소상공인 성장지원 — 사업화자금 최대 1억원", dept: "기업마당", period: "2026-08-07", url: "https://www.bizinfo.go.kr/" },
+      { title: "[중기부] 소상공인 정책자금(융자) — 일반·성장기반 구분, 예산 소진 시까지", dept: "중기부", period: "2026-08-07", url: "https://www.bizinfo.go.kr/" },
+      { title: "[중기부] 기업승계 M&A 컨설팅 지원 — 기초 100만원·종합 1,000만원", dept: "중기부", period: "2026-08-07", url: "https://www.bizinfo.go.kr/" },
+      { title: "[기업마당] 소상공인 지원사업 통합공고 — 예비창업·소상공인·소공인 대상", dept: "기업마당", period: "2026-08-07", url: "https://www.bizinfo.go.kr/" },
+      { title: "[중기부] 경영안정 바우처 — 2025년 매출 0초과~1.04억 미만", dept: "중기부", period: "2026-08-07", url: "https://www.bizinfo.go.kr/" }
+    ];
+
+    function renderAnn(items) {
+      annList.innerHTML = "";
+      (items || []).forEach(function (it) {
+        var li = document.createElement("li");
+        var a = document.createElement("a");
+        a.href = it.url || "https://www.bizinfo.go.kr/";
+        a.target = "_blank";
+        a.rel = "noopener";
+        var label = it.title || "";
+        if (it.dept) label = "[" + it.dept + "] " + label;
+        a.textContent = label;
+        li.appendChild(a);
+        if (it.period) {
+          var span = document.createElement("span");
+          span.className = "ann-date";
+          span.textContent = it.period;
+          li.appendChild(span);
+        }
+        annList.appendChild(li);
+      });
+      if (!items || !items.length) {
+        annList.innerHTML = "<li class='ann-empty'>현재 공고를 불러오는 중입니다. 잠시 후 다시 확인해 주세요.</li>";
+      }
+    }
+
+    // 캐시 방지: fetch 시각 쿼리 추가
+    var ts = new Date().getTime();
+    fetch("announcements.json?t=" + ts, { cache: "no-store" })
+      .then(function (res) {
+        if (!res.ok) throw new Error("announcements fetch failed: " + res.status);
+        return res.json();
+      })
+      .then(function (data) {
+        if (data && data.items && data.items.length) {
+          renderAnn(data.items);
+          var note = document.getElementById("annNote");
+          if (note && data.updated) {
+            note.textContent = "※ 매일 공고를 수집해 최신화합니다. (최종 수집: " + data.updated + ") 자세한 조건은 공식 링크에서 확인하세요.";
+          }
+        } else {
+          renderAnn(fallbackItems);
+        }
+      })
+      .catch(function () {
+        renderAnn(fallbackItems);
+      });
+  }
 })();

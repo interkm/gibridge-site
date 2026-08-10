@@ -177,6 +177,8 @@ section { padding: 72px 0; }
 .ann-list a { display: flex; align-items: center; gap: 10px; padding: 14px 6px; font-size: 15px; color: var(--ink-soft); }
 .ann-list a:hover { color: var(--teal-700); }
 .ann-list em { margin-left: auto; color: var(--muted); font-size: 13px; font-style: normal; white-space: nowrap; }
+.ann-list .ann-date { margin-left: auto; color: var(--muted); font-size: 13px; white-space: nowrap; flex-shrink: 0; }
+.ann-list .ann-empty { padding: 14px 6px; color: var(--muted); font-size: 14px; }
 .ann-badge { flex: 0 0 auto; font-size: 12px; font-weight: 700; color: var(--teal-700); background: var(--ice-100); border-radius: 6px; padding: 4px 8px; }
 
 /* ===== 서비스 카드 ===== */
