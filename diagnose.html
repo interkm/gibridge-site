@@ -96,6 +96,7 @@
       <a href="index.html#support">정부지원사업</a>
       <a href="index.html#faq">반박제거 FAQ</a>
       <a href="index.html#contact" class="nav-cta">상담신청</a>
+      <a href="#" id="navAuth" class="nav-auth" style="margin-left:14px;font-size:14px;font-weight:700;color:var(--teal-800);text-decoration:none;white-space:nowrap;">로그인</a>
     </nav>
   </div>
 </header>
@@ -206,6 +207,8 @@
 <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
 <!-- SheetJS (엑셀 재무제표 파싱) -->
 <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+<!-- Supabase 인증 모듈 -->
+<script src="auth.js"></script>
 <script>
 (function () {
   "use strict";
@@ -417,6 +420,71 @@
     return { score: Math.min(s, 100), reasons: reasons };
   }
 
+  /* ---------- 로그인/회원가입 (Supabase) ---------- */
+  var loginLink = document.getElementById("loginLink");
+  var navAuth = document.getElementById("navAuth");
+  function openLogin(e) {
+    if (e) e.preventDefault();
+    if (window.GiBridgeAuth) GiBridgeAuth.showLogin();
+    else alert("로그인 기능을 불러오는 중입니다. 잠시 후 다시 시도해 주세요.");
+  }
+  if (loginLink) loginLink.addEventListener("click", openLogin);
+  if (navAuth) navAuth.addEventListener("click", openLogin);
+
+  // 로그인 상태 표시
+  function renderAuth() {
+    var user = window.GiBridgeAuth && GiBridgeAuth.getUser();
+    if (navAuth) {
+      navAuth.textContent = user ? (user.email || "내 계정") : "로그인";
+    }
+    if (loginLink) loginLink.textContent = user ? (user.email || "내 계정") : "로그인 / 회원가입";
+    var saveBtn = document.getElementById("saveResultBtn");
+    var saveHint = document.querySelector(".save-hint");
+    if (saveBtn) {
+      saveBtn.style.display = user ? "" : "none";
+      if (saveHint) saveHint.textContent = user ? "회원님 계정에 저장됩니다" : "로그인 후 저장할 수 있습니다";
+    }
+  }
+  if (window.GiBridgeAuth) {
+    GiBridgeAuth.onAuthChange(renderAuth);
+    renderAuth();
+  }
+
+  /* ---------- 매칭 결과 저장 ---------- */
+  var lastProfile = null;
+  var lastResults = null;
+
+  function attachSaveButton() {
+    if (document.getElementById("saveResultBtn")) return;
+    var resultArea = document.getElementById("resultArea");
+    var bar = document.createElement("div");
+    bar.style.cssText = "margin-top:18px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;";
+    bar.innerHTML =
+      '<button id="saveResultBtn" style="padding:12px 22px;border:none;border-radius:10px;background:#0f4c5c;color:#fff;font-size:14px;font-weight:800;cursor:pointer;">진단 결과 저장하기</button>' +
+      '<span class="save-hint" style="font-size:13px;color:#64748b;"></span>';
+    resultArea.appendChild(bar);
+    var btn = document.getElementById("saveResultBtn");
+    btn.addEventListener("click", function () {
+      if (!window.GiBridgeAuth || !GiBridgeAuth.getUser()) {
+        GiBridgeAuth.showLogin();
+        return;
+      }
+      btn.textContent = "저장 중...";
+      btn.disabled = true;
+      GiBridgeAuth.saveDiagnosis(lastProfile, lastResults).then(function (r) {
+        if (r && r.error) {
+          btn.textContent = "저장 실패, 다시 시도";
+          btn.disabled = false;
+          alert("저장 실패: " + r.error);
+        } else {
+          btn.textContent = "저장 완료 ✓";
+          btn.style.background = "#16a34a";
+          setTimeout(function () { btn.textContent = "진단 결과 저장하기"; btn.style.background = "#0f4c5c"; btn.disabled = false; }, 2500);
+        }
+      });
+    });
+  }
+
   document.getElementById("matchBtn").addEventListener("click", function () {
     var profile = {
       company: document.getElementById("dCompany").value.trim(),
@@ -429,6 +497,7 @@
       patent: document.getElementById("dPatent").value,
       interest: document.getElementById("dInterest").value
     };
+    lastProfile = profile;
 
     fetch("announcements.json?t=" + new Date().getTime(), { cache: "no-store" })
       .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
@@ -439,10 +508,17 @@
           return { ann: ann, score: m.score, reasons: m.reasons };
         }).sort(function (a, b) { return b.score - a.score; });
 
+        // 저장용 결과 (요약)
+        lastResults = scored.slice(0, 12).map(function (x) {
+          return { title: x.ann.title, score: x.score, region: x.ann.region || "", fund_type: x.ann.fund_type || "", url: x.ann.url || "", reasons: x.reasons };
+        });
+
         var resultArea = document.getElementById("resultArea");
         var summary = document.getElementById("resultSummary");
         var list = document.getElementById("matchList");
         resultArea.style.display = "block";
+        attachSaveButton();
+        renderAuth();
         resultArea.scrollIntoView({ behavior: "smooth" });
 
         var high = scored.filter(function (x) { return x.score >= 70; }).length;
@@ -478,17 +554,14 @@
           list.appendChild(el);
         });
       })
-      .catch(function () {
+      .catch(function (e) {
         var list = document.getElementById("matchList");
-        list.innerHTML = '<div class="no-match">공고 데이터를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.</div>';
+        list.innerHTML = '<div class="no-match">공고 데이터를 불러오지 못했습니다: ' + (e && e.message ? e.message : e) + '</div>';
+        console.error("매칭 오류:", e);
       });
   });
 
-  /* 로그인 링크 (Supabase 연동 시 활성화) */
-  document.getElementById("loginLink").addEventListener("click", function (e) {
-    e.preventDefault();
-    alert("회원가입/로그인은 곧 제공됩니다. 지금은 무료 자격진단을 먼저 이용해 보세요.");
-  });
+  /* 로그인 링크 (Supabase 연동) — 위에서 연결됨 */
 })();
 </script>
 </body>
