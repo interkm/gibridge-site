@@ -1,86 +1,13 @@
 {
-  "updated": "2026-08-12 09:00",
+  "updated": "2026-08-13 09:00",
   "count": 12,
   "items": [
     {
-      "title": "[충남] 2026년 그린스타트업타운 오픈이노베이션 사업화 지원사업 참여기업 모집 공고",
-      "dept": "충청남도",
-      "period": "2026-08-14 ~ 2026-09-04",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125346",
-      "region": "충남",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "[전북] 2026년 하반기 전북해양수산창업투자지원센터 국내박람회 참여기업 통합 모집 공고",
-      "dept": "전북해양수산창업투자지원센터",
-      "period": "2026-08-11 ~ 2026-09-04",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125348",
-      "region": "전북",
-      "fund_type": "마케팅",
-      "industries": [
-        "식품·농업"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "「민관협력 오픈이노베이션 지원」 ‘공공데이터 활용 지원’ 공공기관 제안 협업 과제 (Top-Down) 모집공고",
-      "dept": "중소벤처기업부",
-      "period": "2026-08-11 ~ 2026-08-31",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1070436&parentSeq=16010100",
-      "region": null,
-      "fund_type": "기타",
-      "industries": [
-        "콘텐츠·IT"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "「민관협력 오픈이노베이션 지원」 ‘공공데이터 활용 지원’ 창업기업 제안 협업 과제 (Bottom-Up) 모집공고",
-      "dept": "중소벤처기업부",
-      "period": "2026-08-11 ~ 2026-08-31",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1070435&parentSeq=16010100",
-      "region": null,
-      "fund_type": "기타",
-      "industries": [
-        "콘텐츠·IT"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "[서울] 2026년 콘텐츠 투자협의체 투자상담회 참가기업 모집 공고",
-      "dept": "서울특별시",
-      "period": "2026-08-11 ~ 2026-08-28",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125343",
-      "region": "서울",
-      "fund_type": "컨설팅",
-      "industries": [
-        "콘텐츠·IT"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[경북] 2026년 경북PRIDE기업 수요 연계형 전주기 신기술 지원사업 참여기업 모집 공고",
-      "dept": "경상북도",
-      "period": "2026-08-11 ~ 2026-08-28",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125338",
-      "region": "전북",
+      "title": "[경기] 시흥시 2026년 3차 현장노동자 휴게시설 개선사업 추가 공고",
+      "dept": "시흥시",
+      "period": "2026-08-24 ~ 2026-08-28",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125390",
+      "region": "경기",
       "fund_type": "기타",
       "industries": [
         "전체"
@@ -89,66 +16,25 @@
       "score": 60
     },
     {
-      "title": "[경남] 2026년 하반기 식품진흥기금 융자금 지원계획 공고",
-      "dept": "소진시",
-      "period": "2026-08-11 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125352",
-      "region": "경남",
-      "fund_type": "융자",
+      "title": "[경기] 용인시 2027년 기업환경 개선사업 모집 공고",
+      "dept": "용인시",
+      "period": "2026-08-12 ~ 2026-09-04",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125394",
+      "region": "경기",
+      "fund_type": "기타",
       "industries": [
-        "식품·농업"
+        "환경·에너지"
       ],
       "targets": [],
       "score": 60
     },
     {
-      "title": "[전남광주] 2026년 전남형 신중년 사회연대경제 노동통합 모델 구축사업 참여기업 상시 모집 공고",
-      "dept": "고용노동부",
-      "period": "2026-08-11 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125345",
+      "title": "[전남광주] 목포시 중동사태 어업용 면세유 유가연동보조금 지원사업 신청 공고",
+      "dept": "목포시",
+      "period": "2026-08-12 ~ 2026-09-04",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125391",
       "region": "광주",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "2026년 고신뢰 반도체 상용화를 위한 검증ㆍ확인 지원사업 기업 지원 프로그램 모집 공고",
-      "dept": "소진시",
-      "period": "2026-08-11 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125339",
-      "region": null,
-      "fund_type": "기타",
-      "industries": [
-        "전기·전자"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "2026년 ATF 연계 방송콘텐츠 해외유통 지원 사업 공고",
-      "dept": "방송미디어통신위원",
-      "period": "2026-08-10 ~ 2026-09-08",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125340",
-      "region": null,
-      "fund_type": "마케팅",
-      "industries": [
-        "콘텐츠·IT"
-      ],
-      "targets": [
-        "수출기업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "2026년 2차 국토교통연구기획 사업 시행 공고",
-      "dept": "국토교통연구",
-      "period": "2026-08-10 ~ 2026-08-18",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125341",
-      "region": null,
-      "fund_type": "R&D",
+      "fund_type": "보조금",
       "industries": [
         "전체"
       ],
@@ -156,12 +42,120 @@
       "score": 65
     },
     {
-      "title": "[서울] 강남구 2026년 중국 무역사절단 참가기업 추가 모집 공고",
-      "dept": "강남구",
-      "period": "2026-08-10 ~ 2026-08-17",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125351",
-      "region": "서울",
+      "title": "[경북] 2026년 경북세일페스타 인플루언서 협업 홍보 지원사업 참여기업 추가모집 공고",
+      "dept": "경상북도",
+      "period": "2026-08-12 ~ 2026-08-25",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125395",
+      "region": "경북",
       "fund_type": "마케팅",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경남] 2026년 4차 사회연대경제 청년 일경험사업 참여 기업 추가 모집 공고",
+      "dept": "완료시",
+      "period": "2026-08-12 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125396",
+      "region": "경남",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경남] 김해시 2026년 메가쇼 시즌2 단체관 참가 지원사업 참가기업 모집 공고",
+      "dept": "김해시",
+      "period": "2026-08-12 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125393",
+      "region": "경남",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경기] 광주시 2027년 기업환경 개선사업 신청 공고",
+      "dept": "광주시",
+      "period": "2026-08-11 ~ 2026-09-11",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125399",
+      "region": "경기",
+      "fund_type": "기타",
+      "industries": [
+        "환경·에너지"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "2026년 BOUNCE 2026 스타트업 오픈이노베이션 페스타 참여기업 모집 공고",
+      "dept": "중소벤처기업부",
+      "period": "2026-08-11 ~ 2026-09-02",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125388",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [
+        "스타트업"
+      ],
+      "score": 60
+    },
+    {
+      "title": "[충북] 2026년 농식품 해외 무역사절단 파견(호주) 모집 공고",
+      "dept": "충청북도",
+      "period": "2026-08-11 ~ 2026-08-26",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125389",
+      "region": "충북",
+      "fund_type": "마케팅",
+      "industries": [
+        "식품·농업"
+      ],
+      "targets": [
+        "수출기업"
+      ],
+      "score": 60
+    },
+    {
+      "title": "[경기] 2026년 무역위기 대응 K-FOOD 싱가포르 통상촉진단 참가기업 모집 공고",
+      "dept": "경기도",
+      "period": "2026-08-11 ~ 2026-08-24",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125401",
+      "region": "경기",
+      "fund_type": "마케팅",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경기] 가평군 2027년 기업환경 개선사업 모집 공고",
+      "dept": "가평군",
+      "period": "2026-08-06 ~ 2026-09-18",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125402",
+      "region": "경기",
+      "fund_type": "기타",
+      "industries": [
+        "환경·에너지"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경기] 용인시 2026년 우수기업 선정계획 공고",
+      "dept": "용인시",
+      "period": "2026-08-06 ~ 2026-08-28",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125397",
+      "region": "경기",
+      "fund_type": "기타",
       "industries": [
         "전체"
       ],
