@@ -1,27 +1,25 @@
 {
-  "updated": "2026-08-20 09:00",
+  "updated": "2026-08-21 09:00",
   "count": 12,
   "items": [
     {
-      "title": "[부산] 남구 제2회 청년 창업 아이디어 경진대회 참가자 모집 공고",
-      "dept": "부산광역시",
-      "period": "2026-09-07 ~ 2026-09-18",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125596",
-      "region": "부산",
-      "fund_type": "기타",
+      "title": "[대구] 2026년 4차 대학ㆍ기업 융합형 선도연구소 육성사업 협업ㆍ지원대상 기업 모집 공고(대구광역시 지역성장 인재양성체계(앵커)사업)",
+      "dept": "선도연구",
+      "period": "2026-09-01 ~ 2026-09-28",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125644",
+      "region": "대구",
+      "fund_type": "R&D",
       "industries": [
         "전체"
       ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
+      "targets": [],
+      "score": 65
     },
     {
-      "title": "[경북] 김천시ㆍ칠곡군 2026년 7차 시군특화 맞춤형 일자리 지원사업 참여기업 모집 공고",
-      "dept": "김천시",
-      "period": "2026-08-19 ~ 2026-09-11",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125586",
+      "title": "[경북] 고령군 2026년 중소기업 기숙사 임차비 지원사업 참여기업 추가모집 공고",
+      "dept": "고령군",
+      "period": "2026-08-20 ~ 2026-09-18",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125637",
       "region": "경북",
       "fund_type": "기타",
       "industries": [
@@ -31,37 +29,11 @@
       "score": 60
     },
     {
-      "title": "2026년 하반기 완도군 단체관광객 유치 여행사 인센티브 지원계획 공고",
-      "dept": "완도군",
-      "period": "2026-08-19 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125592",
-      "region": "전남",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[경기] 하남시 2027년 기업환경 개선사업 모집 공고",
-      "dept": "하남시",
-      "period": "2026-08-18 ~ 2026-09-18",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125599",
-      "region": "경기",
-      "fund_type": "기타",
-      "industries": [
-        "환경·에너지"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[부산] 서구 2026년 청년 창업자 임차료 지원사업 참여 신청 공고",
-      "dept": "부산광역시",
-      "period": "2026-08-18 ~ 2026-09-04",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125594",
-      "region": "부산",
+      "title": "모두의 창업 프로젝트 2차 모집 공고",
+      "dept": "중소벤처기업부",
+      "period": "2026-08-20 ~ 2026-09-17",
+      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1070586&parentSeq=16010100",
+      "region": null,
       "fund_type": "기타",
       "industries": [
         "전체"
@@ -72,10 +44,78 @@
       "score": 60
     },
     {
-      "title": "[강원] 2026년 강원 청년 창업 경진대회 참가자 모집 공고",
-      "dept": "강원특별자치도",
-      "period": "2026-08-18 ~ 2026-09-04",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125589",
+      "title": "「민관협력 오픈이노베이션 지원」 2026년 ‘규제자유특구 지원’ 창업기업 모집",
+      "dept": "중소벤처기업부",
+      "period": "2026-08-20 ~ 2026-09-09",
+      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1070626&parentSeq=16010100",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [
+        "스타트업"
+      ],
+      "score": 60
+    },
+    {
+      "title": "2027년 영국 런던 교육장비 전시회(British Educational Training and Technology) 한국관 참가기업 모집 공고",
+      "dept": "산업통상부",
+      "period": "2026-08-20 ~ 2026-09-04",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125632",
+      "region": null,
+      "fund_type": "마케팅",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[울산] K-함정 융합협력 플랫폼 구축 사업 R&D 과제기획 수요기업 모집 공고",
+      "dept": "울산광역시",
+      "period": "2026-08-20 ~ 2026-09-02",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125645",
+      "region": "울산",
+      "fund_type": "R&D",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 65
+    },
+    {
+      "title": "[경북] 김천시 2026년 중소기업 기숙사 임차비 지원사업 참여기업 추가 모집 공고",
+      "dept": "김천시",
+      "period": "2026-08-20 ~ 2026-08-31",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125640",
+      "region": "경북",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "한-UAE 에너지인프라 온라인 사절단 참여기업 모집 공고",
+      "dept": "산업통상부",
+      "period": "2026-08-20 ~ 2026-08-28",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125631",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
+        "환경·에너지",
+        "건설·인프라"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[강원] 2026년 지역 여성 창업기업 초기물품 지원사업 참여기업 모집 공고",
+      "dept": "소진시",
+      "period": "2026-08-20 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125634",
       "region": "강원",
       "fund_type": "기타",
       "industries": [
@@ -87,23 +127,10 @@
       "score": 60
     },
     {
-      "title": "[경기] 화성시 2026년 사회적경제기업 맞춤형 컨설팅 지원사업 공고",
-      "dept": "화성시",
-      "period": "2026-08-18 ~ 2026-08-31",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125595",
-      "region": "경기",
-      "fund_type": "컨설팅",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[강원] 2026년 3차 수출기업 해외 물류비 지원사업 참가기업 모집 공고",
-      "dept": "강원특별자치도",
-      "period": "2026-08-18 ~ 2026-08-28",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125597",
+      "title": "[강원] 2026년 강원가상융합산업 혁신센터 해외 전시회 참가지원 사업 모집 공고",
+      "dept": "혁신센터",
+      "period": "2026-08-19 ~ 2026-09-09",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125643",
       "region": "강원",
       "fund_type": "마케팅",
       "industries": [
@@ -115,55 +142,27 @@
       "score": 60
     },
     {
-      "title": "[충북] 2026년 지능형첨단부품산업의 디지털전환 거점 구축 사업 AI 융합 제품ㆍ솔루션 고도화 지원 수혜기업 추가모집 공고",
-      "dept": "지능형첨단부",
-      "period": "2026-08-18 ~ 2026-08-28",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125590",
-      "region": "충북",
+      "title": "2026년 빅웨이브(BiiG WAVE) IR사업 2회차 바이오 특화 IR 참여기업 모집 공고",
+      "dept": "인천광역시",
+      "period": "2026-08-19 ~ 2026-09-02",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125636",
+      "region": "인천",
       "fund_type": "기타",
       "industries": [
-        "제조·부품",
-        "콘텐츠·IT"
+        "바이오·헬스"
       ],
       "targets": [],
       "score": 60
     },
     {
-      "title": "[전북] 전주시ㆍ익산시ㆍ정읍시 2026년 3차 BIONE고용혁신 프로젝트 숨은시간 활용 일ㆍ생활 균형 지원사업 참여기업 모집 공고",
-      "dept": "전주시",
-      "period": "2026-08-18 ~ 2026-08-25",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125593",
-      "region": "전북",
+      "title": "[전남광주] 2026년 제3회 중소기업 밀집지역 위기기업을 위한 원스톱 중소기업 현장지원단 참가기업 모집 공고",
+      "dept": "현장지원",
+      "period": "2026-08-19 ~ 2026-09-02",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125635",
+      "region": "광주",
       "fund_type": "기타",
       "industries": [
         "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[경남] 진주시 2026년 슬로바키아-루마니아 종합무역사절단 참가기업 추가모집 공고",
-      "dept": "진주시",
-      "period": "2026-08-18 ~ 2026-08-21",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125588",
-      "region": "경남",
-      "fund_type": "마케팅",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "2026년 중소기업 ESG 경영 컨설팅 지원사업 참여기업 모집 공고",
-      "dept": "산림청",
-      "period": "2026-08-14 ~ 2026-08-27",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125600",
-      "region": null,
-      "fund_type": "컨설팅",
-      "industries": [
-        "환경·에너지",
-        "건설·인프라"
       ],
       "targets": [],
       "score": 60
