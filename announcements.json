@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-27 09:00",
+  "updated": "2026-08-28 09:00",
   "count": 12,
   "items": [
     {
-      "title": "[충남] 공주시 2026년 착한가격업소 소규모 시설개선 지원사업 공고",
-      "dept": "공주시",
-      "period": "2026-09-09 ~ 2026-09-11",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125845",
-      "region": "충남",
+      "title": "2026년 하반기 우수발명품 우선구매 추천사업 기간연장 공고",
+      "dept": "우선구",
+      "period": "2026-09-07 ~ 2026-09-22",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125884",
+      "region": null,
       "fund_type": "기타",
       "industries": [
         "전체"
@@ -16,11 +16,11 @@
       "score": 60
     },
     {
-      "title": "[충북] 2026년 지역혁신클러스터육성사업 기업 맞춤형 지원 프로그램 수혜기업 모집 통합 공고",
-      "dept": "산업통상부",
-      "period": "2026-09-02 ~ 2026-09-09",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125844",
-      "region": "충북",
+      "title": "2026년 하반기 우수발명품 우선구매 추천사업 규격추가 공고",
+      "dept": "우선구",
+      "period": "2026-09-07 ~ 2026-09-22",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125882",
+      "region": null,
       "fund_type": "기타",
       "industries": [
         "전체"
@@ -29,14 +29,82 @@
       "score": 60
     },
     {
-      "title": "[전북] 2026년 식품기업 창업프로그램 지원사업 스마트 푸드테크 LAB 현장애로 해결 자문 프로그램 참여기업 모집 공고",
-      "dept": "소진시",
-      "period": "2026-08-26 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125847",
-      "region": "전북",
+      "title": "2026년 하반기 우수발명품 우선구매 추천사업 신규지정 공고",
+      "dept": "우선구",
+      "period": "2026-09-07 ~ 2026-09-22",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125879",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[제주] 제주시 2026년 지역연고자원을 활용한 치유산업 육성 및 활성화 지원사업 기술고도화 컨설팅 지원 수혜기업 모집 공고(시군구연고산업육성사업)",
+      "dept": "제주시",
+      "period": "2026-08-27 ~ 2026-09-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125878",
+      "region": "제주",
       "fund_type": "컨설팅",
       "industries": [
-        "식품·농업"
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "테크패션 시제품ㆍ기술지도(컨설팅) 기술지원 및 고도화 지원사업 프로그램(기술지도 추가모집) 공고",
+      "dept": "기술지도",
+      "period": "2026-08-27 ~ 2026-09-11",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125889",
+      "region": null,
+      "fund_type": "R&D",
+      "industries": [
+        "제조·부품"
+      ],
+      "targets": [],
+      "score": 65
+    },
+    {
+      "title": "[울산] 2026년 소상공인 온라인 판로ㆍ마케팅 지원 사업 공고",
+      "dept": "소진시",
+      "period": "2026-08-27 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125890",
+      "region": "울산",
+      "fund_type": "마케팅",
+      "industries": [
+        "전체"
+      ],
+      "targets": [
+        "소상공인"
+      ],
+      "score": 65
+    },
+    {
+      "title": "[전남광주] 2026년 AI융합 지능형 농업 생태계 구축 인공지능 기술 고도화(신뢰성평가) 지원사업 추가 모집 공고",
+      "dept": "전남광주통합특별시",
+      "period": "2026-08-27 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125888",
+      "region": "광주",
+      "fund_type": "기타",
+      "industries": [
+        "식품·농업",
+        "콘텐츠·IT"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "2026년 중소기업 기술거래 기반조성사업 시행계획 수정 공고",
+      "dept": "중소벤처기업부",
+      "period": "2026-08-27 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125887",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
+        "전체"
       ],
       "targets": [
         "스타트업"
@@ -44,118 +112,56 @@
       "score": 60
     },
     {
-      "title": "2026년 권역별 선도서점 육성 사업 컨설팅(경영ㆍ마케팅ㆍ디지털) 참여서점 모집 공고",
-      "dept": "문화체육관광부",
-      "period": "2026-08-26 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125842",
+      "title": "[대전] 2026년 독일 뒤셀도르프 의료기기 전시회(MEDICA) 단체참가 참여기업 추가모집 공고",
+      "dept": "뒤셀도",
+      "period": "2026-08-27 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125881",
+      "region": "대전",
+      "fund_type": "마케팅",
+      "industries": [
+        "바이오·헬스"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "2026년 2차 스마트상점 기술보급사업 참여 소상공인 모집 공고(구입형ㆍ렌탈형ㆍS/W형)",
+      "dept": "중소벤처기업부",
+      "period": "2026-08-26 ~ 2026-09-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125880",
       "region": null,
-      "fund_type": "마케팅",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[대구] QR 다국어 메뉴판 제작사업 참여 사업체 모집 공고",
-      "dept": "완료시",
-      "period": "2026-08-26 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125838",
-      "region": "대구",
       "fund_type": "기타",
       "industries": [
         "전체"
       ],
-      "targets": [],
-      "score": 60
+      "targets": [
+        "소상공인",
+        "스타트업"
+      ],
+      "score": 65
     },
     {
-      "title": "[서울] 강남구 2026년 하반기 중소기업육성기금 융자지원 계획 공고",
-      "dept": "강남구",
-      "period": "2026-08-26 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125836",
-      "region": "서울",
-      "fund_type": "융자",
+      "title": "2026년 3차 정보보호제품 성능평가 지원 공모 사업 공고",
+      "dept": "과학기술정보통신부",
+      "period": "2026-08-26 ~ 2026-09-16",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125877",
+      "region": null,
+      "fund_type": "기타",
       "industries": [
-        "전체"
+        "콘텐츠·IT"
       ],
       "targets": [],
       "score": 60
     },
     {
-      "title": "[경북] 구미시 2026년 청년 정착 인턴십 지원사업 청년예비취업자 인턴십 참여기업 모집 공고",
-      "dept": "구미시",
-      "period": "2026-08-25 ~ 2026-11-30",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125834",
+      "title": "[경북] 안동시 2026년 중소기업 근로자 기숙사 임차비 지원사업 참여기업 추가모집 공고",
+      "dept": "안동시",
+      "period": "2026-08-26 ~ 2026-09-11",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125886",
       "region": "경북",
       "fund_type": "기타",
       "industries": [
         "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[대구] 2026년 지역현안 해결형 R&D 과제기획 및 지원사업 신규과제 공고",
-      "dept": "대구광역시",
-      "period": "2026-08-25 ~ 2026-09-11",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125837",
-      "region": "대구",
-      "fund_type": "R&D",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 65
-    },
-    {
-      "title": "[충남] 2026년 4차 지역혁신클러스터육성(비R&D)사업 사업화 지원 수혜기업 추가모집 공고",
-      "dept": "충청남도",
-      "period": "2026-08-25 ~ 2026-09-11",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125835",
-      "region": "충남",
-      "fund_type": "R&D",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 65
-    },
-    {
-      "title": "[경북] 2026년 3차 규제샌드박스 지원사업 지원기업 모집 공고",
-      "dept": "경상북도",
-      "period": "2026-08-25 ~ 2026-09-02",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125846",
-      "region": "경북",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[충남] 아산시 2026년 음식점 좌식 테이블 시설개선 지원사업 추가 모집 공고",
-      "dept": "아산시",
-      "period": "2026-08-25 ~ 2026-08-31",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125840",
-      "region": "충남",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[대구] 2026년 대구식품산업 인재양성 및 마케팅지원사업 국내 식품 박람회(제26회 대구국제식품산업전) 대구식품협회 공동부스 참가업체 모집 공고",
-      "dept": "마케팅지원",
-      "period": "2026-08-24 ~ 2026-09-10",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000125848",
-      "region": "대구",
-      "fund_type": "마케팅",
-      "industries": [
-        "식품·농업"
       ],
       "targets": [],
       "score": 60
