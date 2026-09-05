@@ -1,41 +1,13 @@
 {
-  "updated": "2026-09-04 09:00",
+  "updated": "2026-09-05 09:00",
   "count": 12,
   "items": [
     {
-      "title": "2026년 제조 특화 온디바이스 AI 기반 자율제조 실증 기반 구축 사업 기업지원 참여기업 모집 공고(산업혁신기반구축 사업)",
-      "dept": "기업지원",
-      "period": "2026-09-03 ~ 2026-09-18",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126131",
-      "region": null,
-      "fund_type": "R&D",
-      "industries": [
-        "제조·부품",
-        "콘텐츠·IT"
-      ],
-      "targets": [],
-      "score": 65
-    },
-    {
-      "title": "[강원] 바이오ㆍ헬스케어 AI 대전환 실증기업 모집 공고(지역 주도형 AI 대전환 사업)",
-      "dept": "강원특별자치도",
-      "period": "2026-09-03 ~ 2026-09-16",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126133",
+      "title": "[대전] 대덕구 2026년 3분기 착한가격업소 신규 모집 공고",
+      "dept": "대덕구",
+      "period": "2026-09-07 ~ 2026-09-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126179",
       "region": "대전",
-      "fund_type": "R&D",
-      "industries": [
-        "콘텐츠·IT",
-        "바이오·헬스"
-      ],
-      "targets": [],
-      "score": 65
-    },
-    {
-      "title": "[경기] 수원시 2026년 하반기 착한가격업소 신규지정 모집 공고",
-      "dept": "수원시",
-      "period": "2026-09-03 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126138",
-      "region": "경기",
       "fund_type": "기타",
       "industries": [
         "전체"
@@ -44,25 +16,27 @@
       "score": 60
     },
     {
-      "title": "2026년 위조방지기술 도입지원 사업 기업 모집 공고",
-      "dept": "도입지원",
-      "period": "2026-09-03 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126136",
+      "title": "「2026년 스마트제조혁신 유공」 포상 후보자 모집 공고",
+      "dept": "중소벤처기업부",
+      "period": "2026-09-04 ~ 2026-09-25",
+      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1070968&parentSeq=16010100",
       "region": null,
       "fund_type": "기타",
       "industries": [
-        "전체"
+        "제조·부품"
       ],
-      "targets": [],
+      "targets": [
+        "스타트업"
+      ],
       "score": 60
     },
     {
-      "title": "[강원] 속초시 2026년 하반기 단체관광객 유치보상제 운영 공고",
-      "dept": "속초시",
-      "period": "2026-09-03 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126135",
-      "region": "강원",
-      "fund_type": "기타",
+      "title": "2026년 위치정보 맞춤형 컨설팅 참여기업 모집 공고",
+      "dept": "방송미디어통신위원",
+      "period": "2026-09-04 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126188",
+      "region": null,
+      "fund_type": "컨설팅",
       "industries": [
         "전체"
       ],
@@ -70,64 +44,94 @@
       "score": 60
     },
     {
-      "title": "[강원] 원주시 2026년 하반기 중소기업 신용보증수수료 지원사업 공고",
-      "dept": "원주시",
-      "period": "2026-09-03 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126134",
-      "region": "강원",
+      "title": "[대구] 수성구 2026년 소상공인시장진흥공단 정책자금 이차보전 지원 사업 공고",
+      "dept": "수성구",
+      "period": "2026-09-04 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126186",
+      "region": "대구",
       "fund_type": "융자",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[충북] 음성군 2026년 중소기업 육성자금 이차보전 지원사업 변경 공고",
-      "dept": "음성군",
-      "period": "2026-09-03 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126132",
-      "region": "충북",
-      "fund_type": "융자",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[충북] 진천군 2026년 국내 전시회 및 박람회 참가기업 지원사업 공고",
-      "dept": "진천군",
-      "period": "2026-09-03 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126130",
-      "region": "충북",
-      "fund_type": "마케팅",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[경기] 안산시 2026년 동남아 해외시장개척단 참가기업 모집 공고",
-      "dept": "안산시",
-      "period": "2026-09-02 ~ 2026-09-16",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126143",
-      "region": "경기",
-      "fund_type": "마케팅",
       "industries": [
         "전체"
       ],
       "targets": [
-        "수출기업"
+        "소상공인"
       ],
+      "score": 65
+    },
+    {
+      "title": "[대구] 동구 2026년 하반기 소상공인 경영안정자금 지원사업 공고",
+      "dept": "소진시",
+      "period": "2026-09-04 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126184",
+      "region": "대구",
+      "fund_type": "융자",
+      "industries": [
+        "전체"
+      ],
+      "targets": [
+        "소상공인"
+      ],
+      "score": 65
+    },
+    {
+      "title": "[인천] 강화군 소상공인 경영안정지원금 지급사업 공고",
+      "dept": "강화군",
+      "period": "2026-09-04 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126183",
+      "region": "인천",
+      "fund_type": "보조금",
+      "industries": [
+        "전체"
+      ],
+      "targets": [
+        "소상공인"
+      ],
+      "score": 70
+    },
+    {
+      "title": "2026년 라오스(비엔티안) 전력기자재 사절단 참가 공고",
+      "dept": "산업통상부",
+      "period": "2026-09-03 ~ 2026-09-21",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126189",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
       "score": 60
     },
     {
-      "title": "[경기] 성남시 2026년 현장노동자 휴게시설 개선 지원사업 추가 모집 공고",
-      "dept": "성남시",
-      "period": "2026-09-02 ~ 2026-09-16",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126142",
+      "title": "[제주] 2026년 지역ㆍ산업맞춤형 일자리지원 사업(제주지역 자율계정) 관광콘텐츠 특화형 고용정착 및 인재육성 지원사업 추가모집 공고",
+      "dept": "일자리지원",
+      "period": "2026-09-03 ~ 2026-09-17",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126191",
+      "region": "제주",
+      "fund_type": "기타",
+      "industries": [
+        "콘텐츠·IT"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[울산] 울주군 2026년 소규모 사업장 방지시설 설치 지원사업 공고(우리동네 맑은공기 패키지 지원사업)",
+      "dept": "울주군",
+      "period": "2026-09-02 ~ 2026-09-22",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126178",
+      "region": "울산",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경기] 부천시 2026년 9월 유해물질 시험분석 수수료 지원 사업 참여 기업 모집 공고",
+      "dept": "부천시",
+      "period": "2026-09-01 ~ 2026-09-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126177",
       "region": "경기",
       "fund_type": "기타",
       "industries": [
@@ -137,12 +141,12 @@
       "score": 60
     },
     {
-      "title": "[경기] 안산시 2026년 하반기 착한가격업소 신규 모집 공고",
-      "dept": "안산시",
-      "period": "2026-09-01 ~ 2026-10-02",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126145",
+      "title": "[경기] 화성시 2026년 하반기 지역서점 인증(갱신) 신청 접수 공고",
+      "dept": "화성시",
+      "period": "2026-09-01 ~ 2026-09-15",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126182",
       "region": "경기",
-      "fund_type": "기타",
+      "fund_type": "인증",
       "industries": [
         "전체"
       ],
@@ -150,14 +154,14 @@
       "score": 60
     },
     {
-      "title": "[경기] 수원시 2027년 기업환경 개선사업 모집 공고",
-      "dept": "수원시",
-      "period": "2026-09-01 ~ 2026-09-18",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126141",
-      "region": "경기",
+      "title": "[경남] 진주시 2026년 2차 반려동물 동반 출입 음식점 물품구입 지원 추가 공고",
+      "dept": "진주시",
+      "period": "2026-09-01 ~ 2026-09-15",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126181",
+      "region": "경남",
       "fund_type": "기타",
       "industries": [
-        "환경·에너지"
+        "전체"
       ],
       "targets": [],
       "score": 60
