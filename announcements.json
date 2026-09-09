@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-08 09:00",
+  "updated": "2026-09-09 09:00",
   "count": 12,
   "items": [
     {
-      "title": "2026년 은평구 청년식당 신규입점 청년 모집 공고",
-      "dept": "은평구",
-      "period": "2026-09-07 ~ 2026-10-12",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126235",
-      "region": null,
+      "title": "[부산] 연제구 2026년 노후간판 교체(지원) 사업 신청자 모집 공고",
+      "dept": "연제구",
+      "period": "2026-09-14 ~ 2026-09-28",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126280",
+      "region": "부산",
       "fund_type": "기타",
       "industries": [
         "전체"
@@ -16,26 +16,11 @@
       "score": 60
     },
     {
-      "title": "2026년 중소기업 스마트서비스 지원사업 참여기업 모집 공고(A/S지원)",
-      "dept": "중소벤처기업부",
-      "period": "2026-09-07 ~ 2026-10-06",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071012&parentSeq=16010100",
-      "region": null,
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "[전남광주] 2026년 향토기업 인증 계획 공고",
-      "dept": "전남광주통합특별시",
-      "period": "2026-09-07 ~ 2026-10-02",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126230",
-      "region": "광주",
+      "title": "[서울] 2027년 서울형 강소기업 재인증 공고",
+      "dept": "서울특별시",
+      "period": "2026-09-08 ~ 2026-10-06",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126290",
+      "region": "서울",
       "fund_type": "인증",
       "industries": [
         "전체"
@@ -44,11 +29,11 @@
       "score": 60
     },
     {
-      "title": "[전남광주] 2026년 중소기업 대상 선정 계획 공고",
-      "dept": "전남광주통합특별시",
-      "period": "2026-09-07 ~ 2026-10-02",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126229",
-      "region": "광주",
+      "title": "2026년 LX세미콘ㆍ충남창조경제혁신센터 Nexus Connect 오픈이노베이션 밋업 데이 참여기업 모집 공고",
+      "dept": "충남창조경제혁신센터",
+      "period": "2026-09-08 ~ 2026-10-06",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126283",
+      "region": "충남",
       "fund_type": "기타",
       "industries": [
         "전체"
@@ -57,66 +42,105 @@
       "score": 60
     },
     {
-      "title": "2026년 4차 친환경양식어업육성 사업대상자 모집 재공고(품종별산업화시설지원-친환경개체굴생산지원)",
-      "dept": "품종별산업화시설지원",
-      "period": "2026-09-07 ~ 2026-09-30",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126239",
-      "region": null,
-      "fund_type": "기타",
-      "industries": [
-        "환경·에너지"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[전남광주] 동구 2026년 하반기 착한가격업소 모집 공고",
-      "dept": "전남광주통합특별시",
-      "period": "2026-09-07 ~ 2026-09-18",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126242",
-      "region": "광주",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[강원] 2026년 강원특별자치도-신세계백화점 공동 특판행사 참가기업 모집 공고",
-      "dept": "강원특별자치도",
-      "period": "2026-09-07 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126233",
-      "region": "강원",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[서울] 2026년 2차 소상공인 온라인 홍보관 참여 업체 모집 공고",
-      "dept": "서울특별시",
-      "period": "2026-09-07 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126232",
-      "region": "서울",
+      "title": "[전남광주] 완도군 2026 부산국제수산엑스포 완도군 공동 홍보관 참가기업 모집 공고",
+      "dept": "완도군",
+      "period": "2026-09-08 ~ 2026-09-22",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126287",
+      "region": "부산",
       "fund_type": "마케팅",
+      "industries": [
+        "식품·농업"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경남] 창원시 2026년 지식재산진흥 지원사업 기업 추가모집 공고",
+      "dept": "창원시",
+      "period": "2026-09-08 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126286",
+      "region": "경남",
+      "fund_type": "인증",
       "industries": [
         "전체"
       ],
       "targets": [
-        "소상공인"
+        "특허보유기업"
       ],
       "score": 65
     },
     {
-      "title": "중동전쟁 피해기업 대상 쇼피 동남아 수출물류 지원사업 공고",
-      "dept": "중소벤처기업부",
-      "period": "2026-09-04 ~ 2026-09-20",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126231",
-      "region": null,
+      "title": "[부산] 국내전시회 개별참가 지원사업 공고(뿌리산업 고도화를 위한 BIZ 플랫폼 구축사업)",
+      "dept": "국내전시",
+      "period": "2026-09-08 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126282",
+      "region": "부산",
       "fund_type": "마케팅",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경기] 용인특례시 반도체기업 기술보호 지원사업 추가 모집공고",
+      "dept": "용인특례시",
+      "period": "2026-09-08 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126279",
+      "region": "경기",
+      "fund_type": "기타",
+      "industries": [
+        "전기·전자"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[전남광주] 보성군 2026년 단체관광객 유치 인센티브 지원계획 변경 공고",
+      "dept": "보성군",
+      "period": "2026-09-08 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126278",
+      "region": "광주",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경남] 창원시 2026년 K-DEX 공동관 참가기업 모집 공고",
+      "dept": "창원시",
+      "period": "2026-09-07 ~ 2026-10-23",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126289",
+      "region": "경남",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[전남광주] 진도군 2026년 착한가격업소 신규지정 추가 모집 공고",
+      "dept": "진도군",
+      "period": "2026-09-07 ~ 2026-10-02",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126291",
+      "region": "광주",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "2026년 전남 글로벌 스타트업 육성사업(일본) 모집 공고",
+      "dept": "전남광주통합특별시",
+      "period": "2026-09-07 ~ 2026-09-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126284",
+      "region": "광주",
+      "fund_type": "기타",
       "industries": [
         "전체"
       ],
@@ -127,38 +151,12 @@
       "score": 60
     },
     {
-      "title": "[전남광주] 동구 2026년 별별동구 사회적경제 충장장터 참여기업 모집 공고",
-      "dept": "별별동구",
-      "period": "2026-09-04 ~ 2026-09-17",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126243",
-      "region": "광주",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[경남] 창원시 2026년 방위산업 중소기업 신규직원 채용 지원사업 참여기업 추가 모집 공고(방위산업 맞춤형 전문인재 육성사업)",
+      "title": "[경남] 창원시 CES2027 참가기업 지원사업 참가기업 추가 모집 공고",
       "dept": "창원시",
-      "period": "2026-09-04 ~ 2026-09-17",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126237",
+      "period": "2026-09-07 ~ 2026-09-17",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126288",
       "region": "경남",
       "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[서울] 강서구 2026년 국외 전시ㆍ박람회 참가기업 추가 모집 공고",
-      "dept": "강서구",
-      "period": "2026-09-04 ~ 2026-09-16",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126240",
-      "region": "서울",
-      "fund_type": "마케팅",
       "industries": [
         "전체"
       ],
