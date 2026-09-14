@@ -1,83 +1,29 @@
 {
-  "updated": "2026-09-12 19:59",
+  "updated": "2026-09-15 08:38",
   "count": 12,
   "items": [
     {
-      "title": "2027년 일본우수기술자 기술지도(1~8월 지도) 참가기업 모집 공고",
-      "dept": "기술지도",
-      "period": "2026-09-14 ~ 2026-09-28",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126411",
-      "region": null,
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[인천] 영종구 2026년 착한가격업소 신규 모집 재공고",
-      "dept": "영종구",
-      "period": "2026-09-11 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126423",
-      "region": "인천",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[충남] 천안시 2026년 소상공인 특례보증 지원사업 공고",
-      "dept": "천안시",
-      "period": "2026-09-11 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126422",
-      "region": "충남",
-      "fund_type": "융자",
-      "industries": [
-        "전체"
-      ],
-      "targets": [
-        "소상공인"
-      ],
-      "score": 65
-    },
-    {
-      "title": "[충남] 아산시 2026년 소상공인 특례보증 지원사업 공고",
-      "dept": "아산시",
-      "period": "2026-09-11 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126421",
-      "region": "충남",
-      "fund_type": "융자",
-      "industries": [
-        "전체"
-      ],
-      "targets": [
-        "소상공인"
-      ],
-      "score": 65
-    },
-    {
-      "title": "2026년 하반기 한국방송통신전파진흥원(KCA) 중소기업기술마켓 인증기술ㆍ제품 모집 공고",
-      "dept": "한국방송통신전파진흥원",
-      "period": "2026-09-11 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126412",
+      "title": "2026년 4차 직무발명보상우수기업 인증제 신청 공고",
+      "dept": "지식재산처",
+      "period": "2026-10-06 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126445",
       "region": null,
       "fund_type": "인증",
       "industries": [
         "전체"
       ],
-      "targets": [],
-      "score": 60
+      "targets": [
+        "특허보유기업"
+      ],
+      "score": 65
     },
     {
-      "title": "[대구] 2026년 사회연대경제기업 청년에디터 홍보 협업 지원사업 청년에디터ㆍ사회적경제기업 두근두근 소셜 홍보 프로젝트 시즌2 모집 공고",
-      "dept": "대구광역시",
-      "period": "2026-09-10 ~ 2026-09-23",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126413",
-      "region": "대구",
-      "fund_type": "마케팅",
+      "title": "[경북] 영덕군 2026년 농공단지 입주기업 물류비 지원사업 참가기업 모집 공고",
+      "dept": "영덕군",
+      "period": "2026-09-15 ~ 2026-10-02",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126448",
+      "region": "경북",
+      "fund_type": "기타",
       "industries": [
         "전체"
       ],
@@ -85,14 +31,107 @@
       "score": 60
     },
     {
-      "title": "[경기] 안성시 2026년 2차 수출물류SOS 및 샘플 배송비 지원사업 모집 공고",
-      "dept": "안성시",
-      "period": "2026-09-10 ~ 2026-09-21",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126414",
-      "region": "경기",
+      "title": "2026년 인도 BTS(Bengaluru Tech Summit) 전시회 모집 공고",
+      "dept": "과학기술정보통신부",
+      "period": "2026-09-15 ~ 2026-09-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126455",
+      "region": null,
       "fund_type": "마케팅",
       "industries": [
+        "콘텐츠·IT"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "「2026년 상생결제 확산 유공」 포상 후보자 모집 공고",
+      "dept": "중소벤처기업부",
+      "period": "2026-09-14 ~ 2026-10-13",
+      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071161&parentSeq=16010100",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
         "전체"
+      ],
+      "targets": [
+        "스타트업"
+      ],
+      "score": 60
+    },
+    {
+      "title": "2026년 공예 온라인 유통 및 AI 활용 역량 강화 교육프로그램  교육생 모집 공고",
+      "dept": "문화체육관광부",
+      "period": "2026-09-14 ~ 2026-09-20",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126458",
+      "region": null,
+      "fund_type": "컨설팅",
+      "industries": [
+        "콘텐츠·IT"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[제주] 서귀포시 2026년 4분기 서귀포in정 입점업체 공개모집 공고",
+      "dept": "서귀포시",
+      "period": "2026-09-11 ~ 2026-09-29",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126456",
+      "region": "제주",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경남] 창원시 2026년 3차 지역 제조기업 대상 제조 디지털전환(DX) 확산기술 지원사업 추가 모집 공고",
+      "dept": "창원시",
+      "period": "2026-09-11 ~ 2026-09-29",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126447",
+      "region": "경남",
+      "fund_type": "기타",
+      "industries": [
+        "제조·부품"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경북] 2026년 경북청년 롯데백화점 포항점 팝업스토어 참여기업 모집 공고",
+      "dept": "경북청",
+      "period": "2026-09-11 ~ 2026-09-20",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126446",
+      "region": "경북",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "2026년 AI 기반 주파수 간섭분석 및 전파예측기술 개발사업 신규지원 대상과제 연장 공고",
+      "dept": "신규지원",
+      "period": "2026-09-11 ~ 2026-09-18",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126450",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
+        "콘텐츠·IT"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "2026년 바이오글로벌 사업화지원센터 기업지원사업 공고",
+      "dept": "사업화지원센터",
+      "period": "2026-09-09 ~ 2026-09-22",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126453",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
+        "바이오·헬스"
       ],
       "targets": [
         "수출기업"
@@ -100,75 +139,30 @@
       "score": 60
     },
     {
-      "title": "랩허브ㆍ대원제약 오픈이노베이션 프로그램 참여기업 모집 공고",
-      "dept": "인천광역시",
-      "period": "2026-09-10 ~ 2026-09-20",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126417",
+      "title": "[인천] 2026년 3차 뿌리청년 사내맛남 뿌리미(味)래 푸드트럭 참여기업 추가모집 공고",
+      "dept": "뿌리청",
+      "period": "2026-09-08 ~ 2026-09-21",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126457",
       "region": "인천",
       "fund_type": "기타",
       "industries": [
-        "바이오·헬스"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "베트남 테크페스트(TECHFEST 2026) K-스타트업 통합관 참가기업 모집 공고",
-      "dept": "중소벤처기업부",
-      "period": "2026-09-10 ~ 2026-09-17",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126418",
-      "region": null,
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "2027년 프랑스 파리 춘계 프레미에르비죵 전시회 참가기업 모집 공고",
-      "dept": "중소벤처기업부",
-      "period": "2026-09-09 ~ 2026-10-16",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126416",
-      "region": null,
-      "fund_type": "마케팅",
-      "industries": [
-        "전체"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "[부산] 2026년 하반기 사회적경제 공공구매 페어 참가기업 모집 공고",
-      "dept": "공공구",
-      "period": "2026-09-09 ~ 2026-09-23",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126410",
-      "region": "부산",
-      "fund_type": "기타",
-      "industries": [
         "전체"
       ],
       "targets": [],
       "score": 60
     },
     {
-      "title": "[울산] 중구 2026년 소상공인 카드수수료 지원사업 추가모집 공고",
-      "dept": "울산광역시",
-      "period": "2026-09-09 ~ 2026-09-18",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126419",
-      "region": "울산",
+      "title": "2026년 공급기업 다변화 지원사업 참여기업 모집(원전 생태계 고도화 지원사업)",
+      "dept": "산업통상부",
+      "period": "2026-09-08 ~ 2026-09-18",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126451",
+      "region": null,
       "fund_type": "기타",
       "industries": [
         "전체"
       ],
-      "targets": [
-        "소상공인"
-      ],
-      "score": 65
+      "targets": [],
+      "score": 60
     }
   ]
 }
