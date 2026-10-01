@@ -1,85 +1,26 @@
 {
-  "updated": "2026-09-28 14:28",
+  "updated": "2026-10-01 13:28",
   "count": 12,
   "items": [
     {
-      "title": "2026년도 딥테크 챌린지 프로젝트(DCP 기술도전형) 제2차 기술수요조사 시행계획 공고",
-      "dept": "중소벤처기업부",
-      "period": "2026-09-28 ~ 2026-11-13",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071419&parentSeq=16010100",
+      "title": "2026년 3차 전자책 제작 지원 사업 신청 공고",
+      "dept": "문화체육관광부",
+      "period": "2026-10-02 ~ 2026-10-12",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126893",
       "region": null,
       "fund_type": "기타",
       "industries": [
-        "전체"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "2026년 한국농수산식품유통공사 혁신 파트너십 지원사업 참여 창업ㆍ벤처기업 모집 공고",
-      "dept": "농림축산식품부",
-      "period": "2026-09-23 ~ 2026-10-09",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126759",
-      "region": null,
-      "fund_type": "기타",
-      "industries": [
-        "식품·농업"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "[전북] 코리아 그랜드 페스티벌 연계 우수 소상공인 제품 현장 라이브커머스 참여 소상공인 모집 공고",
-      "dept": "중소벤처기업부",
-      "period": "2026-09-23 ~ 2026-10-08",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126771",
-      "region": "전북",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [
-        "소상공인",
-        "스타트업"
-      ],
-      "score": 65
-    },
-    {
-      "title": "[경북] 2026년 장애인기업 경영개선지원사업 공고",
-      "dept": "경영개선지원",
-      "period": "2026-09-23 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126763",
-      "region": "경북",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
+        "전기·전자"
       ],
       "targets": [],
       "score": 60
     },
     {
-      "title": "[대구] 2026년 장애인기업 경영개선 지원사업 공고",
-      "dept": "소진시",
-      "period": "2026-09-23 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126762",
-      "region": "대구",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[강원] 2026년 강원특별자치도 소상공인 경영안정 특별자금 지원사업 공고",
-      "dept": "강원특별자치도",
-      "period": "2026-09-23 ~",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126760",
-      "region": "강원",
+      "title": "[충북] 음성군 소상공인 충북신용보증 보증료 지원 공고",
+      "dept": "음성군",
+      "period": "2026-10-01 ~ 2026-10-23",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126895",
+      "region": "충북",
       "fund_type": "융자",
       "industries": [
         "전체"
@@ -90,14 +31,29 @@
       "score": 65
     },
     {
-      "title": "2026년 바이오헬스 글로벌 수출부대비용 지원 신청 공고(거점 추가확대)",
-      "dept": "수출부",
-      "period": "2026-09-22 ~ 2026-10-30",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126764",
+      "title": "「민관협력 오픈이노베이션 지원」 2026년 제2차 상호 자율탐색형(바이오 분야) 참여기업 모집공고",
+      "dept": "중소벤처기업부",
+      "period": "2026-10-01 ~ 2026-10-21",
+      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071550&parentSeq=16010100",
+      "region": null,
+      "fund_type": "기타",
+      "industries": [
+        "바이오·헬스"
+      ],
+      "targets": [
+        "스타트업"
+      ],
+      "score": 60
+    },
+    {
+      "title": "2026년 해외 환경프로젝트 타당성조사 지원사업 본타당성조사(다년도) 모집 공고",
+      "dept": "다년도",
+      "period": "2026-10-01 ~ 2026-10-16",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126888",
       "region": null,
       "fund_type": "마케팅",
       "industries": [
-        "바이오·헬스"
+        "환경·에너지"
       ],
       "targets": [
         "수출기업"
@@ -105,25 +61,12 @@
       "score": 60
     },
     {
-      "title": "2026년 4차 소재부품기술개발사업 신규지원 대상과제 공고",
-      "dept": "소재부",
-      "period": "2026-09-22 ~ 2026-10-21",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126756",
-      "region": null,
-      "fund_type": "R&D",
-      "industries": [
-        "제조·부품"
-      ],
-      "targets": [],
-      "score": 65
-    },
-    {
-      "title": "2026년 3차 중소벤처기업부 혁신제품 규격추가 모집 공고",
+      "title": "2026년도 중소기업 정책자금 융자계획 변경공고",
       "dept": "중소벤처기업부",
-      "period": "2026-09-22 ~ 2026-10-19",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126766",
+      "period": "2026-10-01 ~ 2026-10-01",
+      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071549&parentSeq=16010100",
       "region": null,
-      "fund_type": "기타",
+      "fund_type": "융자",
       "industries": [
         "전체"
       ],
@@ -133,12 +76,27 @@
       "score": 60
     },
     {
-      "title": "[대구] 2026년 공공서비스 시장 진출 맞춤형 컨설팅 참여기업 모집 공고(사회적경제기업 공공서비스 시장 진출 지원사업)",
-      "dept": "대구광역시",
-      "period": "2026-09-22 ~ 2026-10-06",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126765",
-      "region": "대구",
-      "fund_type": "컨설팅",
+      "title": "[경남] 2026년 특산물박람회 해외바이어 초청 수출상담회 참가업체 모집 공고",
+      "dept": "경상남도",
+      "period": "2026-09-29 ~ 2026-10-16",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126902",
+      "region": "경남",
+      "fund_type": "마케팅",
+      "industries": [
+        "전체"
+      ],
+      "targets": [
+        "수출기업"
+      ],
+      "score": 60
+    },
+    {
+      "title": "[충북] 음성군 2026년 반려동물 동반 출입 음식점 위생용품 지원사업 공고",
+      "dept": "음성군",
+      "period": "2026-09-29 ~ 2026-10-13",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126898",
+      "region": "충북",
+      "fund_type": "기타",
       "industries": [
         "전체"
       ],
@@ -146,32 +104,70 @@
       "score": 60
     },
     {
-      "title": "2026년 피지컬 AI 기반 휴머노이드 제조혁신센터 구축사업 수혜기업 통합 모집 재공고",
-      "dept": "제조혁신센터",
-      "period": "2026-09-22 ~ 2026-10-02",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126757",
-      "region": null,
-      "fund_type": "기타",
+      "title": "[충남] 계룡시 2026년 중소기업 국내 개별 전시박람회 참가 지원계획 재공고",
+      "dept": "계룡시",
+      "period": "2026-09-29 ~ 2026-10-13",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126889",
+      "region": "충남",
+      "fund_type": "마케팅",
       "industries": [
-        "제조·부품",
-        "콘텐츠·IT"
+        "전체"
       ],
       "targets": [],
       "score": 60
     },
     {
-      "title": "2026년 4차 온라인 인력지원 지원기업 추가 모집 공고(농식품 수출지원사업)",
-      "dept": "인력지원",
-      "period": "2026-09-22 ~ 2026-10-01",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126761",
+      "title": "2026년 3차 K-브랜드 정부인증제도 참여기업 모집 공고",
+      "dept": "정부인증제도",
+      "period": "2026-09-29 ~ 2026-10-12",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126897",
       "region": null,
       "fund_type": "마케팅",
       "industries": [
-        "식품·농업"
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경기] 2026년 중소기업 마케팅 지원사업 해외 오프라인 지원기업 모집 공고",
+      "dept": "경기도",
+      "period": "2026-09-29 ~ 2026-10-12",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126892",
+      "region": "경기",
+      "fund_type": "마케팅",
+      "industries": [
+        "전체"
       ],
       "targets": [
         "수출기업"
       ],
+      "score": 60
+    },
+    {
+      "title": "[강원] 홍천군 2026년 사물인터넷(IoT) 측정기기 부착 지원사업 공고",
+      "dept": "홍천군",
+      "period": "2026-09-28 ~ 2026-11-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126899",
+      "region": "강원",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[강원] 홍천군 2026년 가축분뇨 퇴ㆍ액비 제조시설 방지시설 설치 지원사업 공고",
+      "dept": "홍천군",
+      "period": "2026-09-28 ~ 2026-10-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126901",
+      "region": "강원",
+      "fund_type": "기타",
+      "industries": [
+        "제조·부품"
+      ],
+      "targets": [],
       "score": 60
     }
   ]
