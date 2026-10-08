@@ -1,173 +1,171 @@
 {
-  "updated": "2026-10-01 13:28",
+  "updated": "2026-10-08 09:42",
   "count": 12,
   "items": [
     {
-      "title": "2026년 3차 전자책 제작 지원 사업 신청 공고",
-      "dept": "문화체육관광부",
-      "period": "2026-10-02 ~ 2026-10-12",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126893",
-      "region": null,
-      "fund_type": "기타",
+      "title": "[서울] 은평구 2026년 4분기 중소기업육성기금 융자지원 계획 수정 공고",
+      "dept": "은평구",
+      "period": "2026-10-12 ~ 2026-10-23",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127044",
+      "region": "서울",
+      "fund_type": "융자",
       "industries": [
-        "전기·전자"
+        "전체"
       ],
       "targets": [],
       "score": 60
     },
     {
-      "title": "[충북] 음성군 소상공인 충북신용보증 보증료 지원 공고",
-      "dept": "음성군",
-      "period": "2026-10-01 ~ 2026-10-23",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126895",
-      "region": "충북",
-      "fund_type": "융자",
+      "title": "[경북] 2026년 2차 가상융합상생협력지원센터 참여기업 모집 공고",
+      "dept": "가상융합상생협력지원센터",
+      "period": "2026-10-07 ~ 2026-10-16",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127056",
+      "region": "경북",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[경북] 구미시 2026년 5차 지식재산 긴급지원(중소기업 IP바로지원) 사업 모집 공고(상표ㆍ디자인(국내))",
+      "dept": "구미시",
+      "period": "2026-10-07 ~ 2026-10-14",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127055",
+      "region": "경북",
+      "fund_type": "인증",
       "industries": [
         "전체"
       ],
       "targets": [
-        "소상공인"
+        "특허보유기업"
       ],
       "score": 65
     },
     {
-      "title": "「민관협력 오픈이노베이션 지원」 2026년 제2차 상호 자율탐색형(바이오 분야) 참여기업 모집공고",
-      "dept": "중소벤처기업부",
-      "period": "2026-10-01 ~ 2026-10-21",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071550&parentSeq=16010100",
-      "region": null,
-      "fund_type": "기타",
-      "industries": [
-        "바이오·헬스"
-      ],
-      "targets": [
-        "스타트업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "2026년 해외 환경프로젝트 타당성조사 지원사업 본타당성조사(다년도) 모집 공고",
-      "dept": "다년도",
-      "period": "2026-10-01 ~ 2026-10-16",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126888",
-      "region": null,
-      "fund_type": "마케팅",
-      "industries": [
-        "환경·에너지"
-      ],
-      "targets": [
-        "수출기업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "2026년도 중소기업 정책자금 융자계획 변경공고",
-      "dept": "중소벤처기업부",
-      "period": "2026-10-01 ~ 2026-10-01",
-      "url": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=310&bcIdx=1071549&parentSeq=16010100",
-      "region": null,
-      "fund_type": "융자",
+      "title": "[경북] 서부권 2026년 5차 지식재산 긴급지원(중소기업 IP바로지원) 사업 모집 공고(국내출원 지원)",
+      "dept": "긴급지원",
+      "period": "2026-10-07 ~ 2026-10-14",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127054",
+      "region": "경북",
+      "fund_type": "인증",
       "industries": [
         "전체"
       ],
       "targets": [
-        "스타트업"
+        "특허보유기업"
       ],
-      "score": 60
+      "score": 65
     },
     {
-      "title": "[경남] 2026년 특산물박람회 해외바이어 초청 수출상담회 참가업체 모집 공고",
-      "dept": "경상남도",
-      "period": "2026-09-29 ~ 2026-10-16",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126902",
-      "region": "경남",
+      "title": "[경북] 2026년 4차 상해 자동차부품 전시회 경북 공동관 참가기업 추가모집 공고(자동차 부품전 경북 공동관 참가 지원사업)",
+      "dept": "자동차부",
+      "period": "2026-10-07 ~",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127043",
+      "region": "경북",
       "fund_type": "마케팅",
-      "industries": [
-        "전체"
-      ],
-      "targets": [
-        "수출기업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "[충북] 음성군 2026년 반려동물 동반 출입 음식점 위생용품 지원사업 공고",
-      "dept": "음성군",
-      "period": "2026-09-29 ~ 2026-10-13",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126898",
-      "region": "충북",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[충남] 계룡시 2026년 중소기업 국내 개별 전시박람회 참가 지원계획 재공고",
-      "dept": "계룡시",
-      "period": "2026-09-29 ~ 2026-10-13",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126889",
-      "region": "충남",
-      "fund_type": "마케팅",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "2026년 3차 K-브랜드 정부인증제도 참여기업 모집 공고",
-      "dept": "정부인증제도",
-      "period": "2026-09-29 ~ 2026-10-12",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126897",
-      "region": null,
-      "fund_type": "마케팅",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[경기] 2026년 중소기업 마케팅 지원사업 해외 오프라인 지원기업 모집 공고",
-      "dept": "경기도",
-      "period": "2026-09-29 ~ 2026-10-12",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126892",
-      "region": "경기",
-      "fund_type": "마케팅",
-      "industries": [
-        "전체"
-      ],
-      "targets": [
-        "수출기업"
-      ],
-      "score": 60
-    },
-    {
-      "title": "[강원] 홍천군 2026년 사물인터넷(IoT) 측정기기 부착 지원사업 공고",
-      "dept": "홍천군",
-      "period": "2026-09-28 ~ 2026-11-30",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126899",
-      "region": "강원",
-      "fund_type": "기타",
-      "industries": [
-        "전체"
-      ],
-      "targets": [],
-      "score": 60
-    },
-    {
-      "title": "[강원] 홍천군 2026년 가축분뇨 퇴ㆍ액비 제조시설 방지시설 설치 지원사업 공고",
-      "dept": "홍천군",
-      "period": "2026-09-28 ~ 2026-10-30",
-      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000126901",
-      "region": "강원",
-      "fund_type": "기타",
       "industries": [
         "제조·부품"
       ],
       "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[전남광주] 목포시 2026년 김 수출 안전성 검사비 지원사업 신청 추가 공고",
+      "dept": "목포시",
+      "period": "2026-10-06 ~ 2026-11-30",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127049",
+      "region": "광주",
+      "fund_type": "마케팅",
+      "industries": [
+        "전체"
+      ],
+      "targets": [
+        "수출기업"
+      ],
+      "score": 60
+    },
+    {
+      "title": "[전남광주] 무안군 2026년 음식점 출입구 경사로 설치 지원 사업 참여업소 추가 모집 공고",
+      "dept": "무안군",
+      "period": "2026-10-06 ~ 2026-10-20",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127048",
+      "region": "광주",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[전남광주] 목포시 중동사태 어업용 면세유 유가연동보조금 지원사업 2차 신청 공고",
+      "dept": "목포시",
+      "period": "2026-10-06 ~ 2026-10-16",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127052",
+      "region": "광주",
+      "fund_type": "보조금",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 65
+    },
+    {
+      "title": "[서울] 2026년 서울 라이프스타일 거점(일본) 진출사업 참여기업 모집 공고",
+      "dept": "서울특별시",
+      "period": "2026-10-06 ~ 2026-10-16",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127051",
+      "region": "서울",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[서울] 2026 오세아니아(호주ㆍ뉴질랜드) 전략시장 진출 사업 참가기업 모집 공고",
+      "dept": "전략시",
+      "period": "2026-10-06 ~ 2026-10-16",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127050",
+      "region": "서울",
+      "fund_type": "기타",
+      "industries": [
+        "전체"
+      ],
+      "targets": [],
+      "score": 60
+    },
+    {
+      "title": "[전남광주] 2026년 8차 공산품 수출 중소기업 글로벌 경쟁력 강화 긴급지원 사업 대상 모집 변경 공고",
+      "dept": "긴급지원",
+      "period": "2026-10-06 ~ 2026-10-16",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127045",
+      "region": "광주",
+      "fund_type": "마케팅",
+      "industries": [
+        "전체"
+      ],
+      "targets": [
+        "수출기업"
+      ],
+      "score": 60
+    },
+    {
+      "title": "[전북] 해외전시회 베트남 달랏 웰니스 페스타 참여기업 모집 공고",
+      "dept": "해외전시",
+      "period": "2026-10-06 ~ 2026-10-13",
+      "url": "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000127042",
+      "region": "전북",
+      "fund_type": "마케팅",
+      "industries": [
+        "전체"
+      ],
+      "targets": [
+        "수출기업"
+      ],
       "score": 60
     }
   ]
